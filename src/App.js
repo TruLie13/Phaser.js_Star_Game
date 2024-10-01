@@ -1,6 +1,8 @@
-import React, { useEffect } from "react";
 import Phaser from "phaser";
+import React, { useEffect } from "react";
 import GameScene from "./GameScene";
+
+import "./App.css";
 
 function App() {
   useEffect(() => {
