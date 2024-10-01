@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TruLie13/Phaser.js_Star_Game.git/static/css/main.e6c13ad2.css",
+    "main.js": "/TruLie13/Phaser.js_Star_Game.git/static/js/main.aa3d4342.js",
+    "static/js/453.28f62a86.chunk.js": "/TruLie13/Phaser.js_Star_Game.git/static/js/453.28f62a86.chunk.js",
+    "static/media/Dead.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Dead.d831818448b91272c60d.png",
+    "static/media/Jump.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Jump.40a2eae87256f9fd18f0.png",
+    "static/media/Attack_1.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Attack_1.6ef4e9eb17bce1933578.png",
+    "static/media/Attack_2.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Attack_2.9c79f1df0aa313399b7c.png",
+    "static/media/Run.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Run.4d0037756c75ebceb087.png",
+    "static/media/Walk.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Walk.187ad1222575cb21f755.png",
+    "static/media/Attack_3.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Attack_3.d546789fe7c3f5bf0b3c.png",
+    "static/media/Idle.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Idle.31678ec8cde581fbfdb0.png",
+    "static/media/Idle_2.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Idle_2.c6bd91d5106f11848298.png",
+    "static/media/Fire_2.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Fire_2.2e3bc379703759337e69.png",
+    "static/media/Hurt.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Hurt.24d5ecda75ae0660f182.png",
+    "static/media/Fire_1.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Fire_1.f094e73766b8ea293f39.png",
+    "static/media/platform.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/platform.69db09bf9618dbe6c387.png",
+    "index.html": "/TruLie13/Phaser.js_Star_Game.git/index.html",
+    "main.e6c13ad2.css.map": "/TruLie13/Phaser.js_Star_Game.git/static/css/main.e6c13ad2.css.map",
+    "main.aa3d4342.js.map": "/TruLie13/Phaser.js_Star_Game.git/static/js/main.aa3d4342.js.map",
+    "453.28f62a86.chunk.js.map": "/TruLie13/Phaser.js_Star_Game.git/static/js/453.28f62a86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.aa3d4342.js"
+  ]
+}
