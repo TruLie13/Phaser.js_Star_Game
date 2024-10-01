@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TruLie13/Phaser.js_Star_Game.git/static/css/main.e6c13ad2.css",
+    "main.css": "/TruLie13/Phaser.js_Star_Game.git/static/css/main.315a50c8.css",
     "main.js": "/TruLie13/Phaser.js_Star_Game.git/static/js/main.aa3d4342.js",
     "static/js/453.28f62a86.chunk.js": "/TruLie13/Phaser.js_Star_Game.git/static/js/453.28f62a86.chunk.js",
     "static/media/Dead.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Dead.d831818448b91272c60d.png",
@@ -17,12 +17,12 @@
     "static/media/Fire_1.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/Fire_1.f094e73766b8ea293f39.png",
     "static/media/platform.png": "/TruLie13/Phaser.js_Star_Game.git/static/media/platform.69db09bf9618dbe6c387.png",
     "index.html": "/TruLie13/Phaser.js_Star_Game.git/index.html",
-    "main.e6c13ad2.css.map": "/TruLie13/Phaser.js_Star_Game.git/static/css/main.e6c13ad2.css.map",
+    "main.315a50c8.css.map": "/TruLie13/Phaser.js_Star_Game.git/static/css/main.315a50c8.css.map",
     "main.aa3d4342.js.map": "/TruLie13/Phaser.js_Star_Game.git/static/js/main.aa3d4342.js.map",
     "453.28f62a86.chunk.js.map": "/TruLie13/Phaser.js_Star_Game.git/static/js/453.28f62a86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.315a50c8.css",
     "static/js/main.aa3d4342.js"
   ]
 }
