@@ -1,5 +1,7 @@
 # Star Game
 
+Play Online (https://star-grabber.web.app/)
+
 ## Gameplay features
 
 - Bomb drops with every 2 stars collected
