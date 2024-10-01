@@ -1,6 +1,6 @@
 # Star Game
 
-Play Online (https://star-grabber.web.app/)
+Play Online - Desktop (https://star-grabber.web.app/)
 
 ## Gameplay features
 
