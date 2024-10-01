@@ -3,18 +3,6 @@ import Phaser from "phaser";
 import GameScene from "./GameScene";
 
 function App() {
-  let audioContext;
-
-  function startAudio() {
-    // Create or resume the AudioContext on user gesture
-    if (audioContext && audioContext.state === "suspended") {
-      audioContext.resume();
-    } else {
-      audioContext = new (window.AudioContext || window.webkitAudioContext)();
-      // Additional setup can go here
-    }
-  }
-
   useEffect(() => {
     const config = {
       type: Phaser.AUTO,
@@ -40,7 +28,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Practice Game</h1>
+      <h1>Star Grabber</h1>
       <div id="phaser-game" />
     </div>
   );
